@@ -1,4 +1,4 @@
-Run Project -> Npm Run dev
+Run Project -> npm run dev
 
 # React + Vite
 
